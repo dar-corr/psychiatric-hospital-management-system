@@ -119,7 +119,7 @@
             </Grid>
 
             <!-- информация -->
-            <TextBlock Text="Для тестирования: dr_ivanov / password123" 
+            <TextBlock Text="Для тестирования: demo_admin / Demo2026!" 
                       FontSize="10"
                       Foreground="Gray"
                       HorizontalAlignment="Center"
